@@ -32,3 +32,21 @@ Explicar los métodos para resolver  ecuaciones simultáneas  y los principios d
 
 ![Cuadro sinóptico en blanco (2)](https://user-images.githubusercontent.com/94008521/148302094-9c1fdaaf-1b15-4af1-baaf-47f771a0c2ba.png)
 
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+4. VIDEO
+
+5. CONCLUSIONES
+
+-	Dentro de los métodos para solucionar ecuaciones simultáneas se tiene: la solución por sustitución que netamente puede resolver dos o tres ecuaciones simultaneas en forma estándar mediante una sustitución algebraica, primero determinando una variable en función de las otras. En segundo lugar, está la solución por determinantes en este caso se emplea matrices dependiendo del número de variables y se calcula el determinante de la matriz empleada.
+-	El flujo magnético se define como un grupo de líneas de fuerza que van del polo norte al polo sur en un imán. El número de líneas que existen dentro del campo magnético determina el valor del flujo, por lo cual la relación entre el campo magnético y el flujo magnético es que entre más líneas haya más intenso será el campo. 
+-	Con respecto a la inducción electromagnética la Ley de Faraday enuncia que: el voltaje inducido el voltaje inducido a través de la bobina es igual al número de vueltas de la bobina multiplicado por la tasa de cambio del flujo magnético.
+
+6. BIBLIOGRAFÍA
+
+-	Sears, Zemansky (2009) Física universitaria con física moderna.
+-	Serway, R. A., Jewett, J. W. (2008) Física para ciencias e ingeniería.
+-	Avogadro, D. (08 de Noviembre de 2010). Obtenido de https://diccionario.motorgiga.com/electromagnetismo
+-	Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+-	Martínez, A. (11 de Marzo de 2006). Obtenido de https://repositorio.upct.es/bitstream/handle/10317/7661/syc.pdf?sequence=1&isAllowed=y
+
