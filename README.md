@@ -76,6 +76,7 @@ SECCIÓN 9–4 Método del voltaje en nodos
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
 CAPITULO 10
+
 SECCIÓN 10–1 El campo magnético
 
 1.El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
