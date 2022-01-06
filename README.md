@@ -261,6 +261,36 @@ SECCIÓN 9–4 Método del voltaje en nodos
 
 27.¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
 
+![image](https://user-images.githubusercontent.com/93960809/148425837-fbd913ce-1bf7-4d7f-8656-52ce01f7e531.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148425860-fe6de2f8-c30a-465e-b017-3a5a910f44d3.png)
+
+Sabiendo que intensidad es igual a voltaje sobre resistencia se procede a reemplazar eso en la ecuación.
+
+![image](https://user-images.githubusercontent.com/93960809/148425890-620d5dbc-ccc5-436b-b20c-2628ad2ee750.png)
+
+Despejando el valor de VA se tiene que:
+
+![image](https://user-images.githubusercontent.com/93960809/148425929-4f88c7a4-adaf-4f9f-82a3-d633dd222e02.png)
+
+Remplazando el valor de Va en cada una de las ramas de la corriente: 
+
+          Para la corriente I1:
+          
+![image](https://user-images.githubusercontent.com/93960809/148426020-09b21fbc-6b63-44c8-93f9-32fd77092c74.png)
+
+          Para la corriente I2:
+          
+![image](https://user-images.githubusercontent.com/93960809/148426066-65a4470d-3704-4b5b-8306-138035012abf.png)
+
+          Para la corriente I3:
+          
+![image](https://user-images.githubusercontent.com/93960809/148426110-1a59129f-d4ea-4440-9173-328156a0a0c7.png)
+
+Por lo cual, según los valores de las corrientes procedemos a mostrar la dirección real de la corriente en cada rama del circuito: 
+
+![image](https://user-images.githubusercontent.com/93960809/148426157-c4cba0f5-8bae-4091-9e9b-5d4cdc68b847.png)
+
 29.Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
