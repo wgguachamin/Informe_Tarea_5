@@ -187,13 +187,59 @@ En resumen, para hallar los voltajes en los extremos de las resistencias, en pri
 
 15.En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
+![image](https://user-images.githubusercontent.com/93960809/148388566-40d6bc06-165a-4c3b-89e7-040551f48518.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148388586-109a7b31-eec9-4c31-8a71-d396e993beec.png)
+
+Para este ejercicio se calcula el voltaje mediante la ley de ohm usando los valores ya dados en el circuito y gracias a eso se halla el valor del voltaje. 
+
 SECCIÓN 9–3 Método de la corriente en lazos
 
 17.Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
 
+![image](https://user-images.githubusercontent.com/93960809/148388629-f4dcbe07-1a27-488d-bdef-60fd8d71dc63.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148388646-0347d21f-1ca0-438f-a4db-1a8a3af34680.png)
+
+Resolviendo el sistema de ecuaciones en una calculadora: 
+
+![image](https://user-images.githubusercontent.com/93960809/148388678-fc437f07-78da-4782-a42d-55bccff4784a.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148388687-d59fa4b7-58c0-4269-9f7f-d3cdef3c6255.png)
+
+Por lo tanto, analizando las corrientes en los lazos se obtiene como resultado son: 
+
+![image](https://user-images.githubusercontent.com/93960809/148388763-36a4c5ae-84f4-404c-84e3-7c9d91f14ecb.png)
+
+Para calcular las corrientes se aplicó el método de lazos más conocido como mallas, en el cual se analiza los voltajes en función de las corrientes por las resistencias llegando así a tener un sistema de ecuaciones que al resolverlo nos arroja los valores de las corrientes. 
+
 19.Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 
+![image](https://user-images.githubusercontent.com/93960809/148388830-36a79e7a-0b91-4fe5-b048-b05bb930600e.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148388851-f4ed0066-9b8b-4992-9978-65dcf8d5ef6b.png)
+
+Calculando los voltajes: 
+
+![image](https://user-images.githubusercontent.com/93960809/148388884-820a647b-1750-4f08-87bf-2f0691714465.png)
+
+En el gráfico en la parte superior del ejercicio se puede observar la polaridad apropiada en cada uno de los resistores, que está puesta con color verde. 
+
+Para calcular los voltajes primero se hallaba las corrientes que pasan por cada una de las resistencias, para posterior a eso hallar el voltaje mediante la ley de ohm.
+
 21.Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/93960809/148388945-c99e424b-3169-485a-9716-3cba0bf2fc7e.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148388983-1ec2414d-fdb4-44c1-bc71-709e41f0bdc1.png)
+
+Resolviendo el sistema de ecuaciones en una calculadora: 
+
+![image](https://user-images.githubusercontent.com/93960809/148389012-f719c8fe-2d4a-4b6a-9048-7977afac428c.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148389027-3d195901-95e6-4c4a-823e-9feb1a192392.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148389053-3d18f432-7454-4af9-b33c-666b72874b09.png)
 
 23.Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 
