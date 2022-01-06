@@ -291,6 +291,8 @@ Por lo cual, según los valores de las corrientes procedemos a mostrar la direcc
 
 ![image](https://user-images.githubusercontent.com/93960809/148426157-c4cba0f5-8bae-4091-9e9b-5d4cdc68b847.png)
 
+Para hallar la corriente usamos el método de voltaje en los nodos por lo que designamos el nodo principal y el nodo de referencia para proceder a calcular los valores de los voltajes y con eso obtener la corriente reemplazando dichos valores en las corrientes. 
+
 29.Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
