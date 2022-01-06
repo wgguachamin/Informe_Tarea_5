@@ -243,6 +243,12 @@ Resolviendo el sistema de ecuaciones en una calculadora:
 
 23.Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 
+![image](https://user-images.githubusercontent.com/93960809/148389806-934b3e82-de1f-4009-a95e-115a386e0951.png)
+
+25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31. 
+
+![image](https://user-images.githubusercontent.com/93960809/148389845-aad010a1-5805-4a25-8e79-8053c48a4068.png)
+
 SECCIÓN 9–4 Método del voltaje en nodos
 
 27.¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
