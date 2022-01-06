@@ -155,6 +155,12 @@ SECCIÓN 9–2 Método de la corriente en ramas
 
 11.Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
 
+![image](https://user-images.githubusercontent.com/93960809/148332651-da730b7f-6f18-4c70-a84a-2487feb2ac7d.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148332667-1547e653-8031-4310-bb66-3fa7f8891989.png)
+
+Aplicando la ley de corriente de Kirchhoff que nos dice que la corriente que ingresa en un nodo es igual a la suma de las corrientes que salen de dicho nodo escribimos la ecuación teniendo en cuenta el sentido de las corrientes que marcan las flechas por lo que se ve que ingresa una corriente I1 la cual se divide en I2 e I3, por lo que la suma de estas corrientes debe ser igual a la que ingresa. 
+
 13.Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 
 15.En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
