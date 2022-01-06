@@ -163,6 +163,28 @@ Aplicando la ley de corriente de Kirchhoff que nos dice que la corriente que ing
 
 13.Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 
+![image](https://user-images.githubusercontent.com/93960809/148336291-ed1ab2f9-0328-4a60-9791-dd4e1c3f8d21.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148336316-e4991b63-00aa-4148-81ae-4b83f7ac8d2e.png)
+
+Resolviendo el sistema de ecuaciones en una calculadora: 
+
+![image](https://user-images.githubusercontent.com/93960809/148336335-4e8f9efd-78dc-4105-ba0f-e5f851c9097c.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148336343-781687ac-0e6f-4bbd-bfe0-5cf19524c69a.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148336352-cc1faebe-974b-4bcf-8e15-5ce0fbb74c5d.png)
+
+Para hallar la última corriente que falta, ósea la I2, por la ley de las corrientes de Kirchhoff sabemos que 
+
+![image](https://user-images.githubusercontent.com/93960809/148336384-d8811ed9-651e-4be7-b979-16dc20ec1726.png)
+
+Para determinar el voltaje entre los extremos de cada resistor usamos la ley de ohm y calculamos dicho voltaje con el valor de la resistencia específica y la corriente que circula por esa resistencia. 
+
+![image](https://user-images.githubusercontent.com/93960809/148336409-8f894a8d-dee0-4855-9832-7a54a01e76b5.png)
+
+En resumen, para hallar los voltajes en los extremos de las resistencias, en primer lugar, hallamos el valor de las corrientes que pasan por estas, para así mediante la ley de ohm poder determinar el voltaje y la polaridad real va tal y cual se encuentra en la imagen del circuito. 
+
 15.En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
 SECCIÓN 9–3 Método de la corriente en lazos
