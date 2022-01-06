@@ -240,7 +240,7 @@ SECCIÓN 10–3 Dispositivos electromagnéticos
 
 11.a)¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
 
-![image](https://user-images.githubusercontent.com/93415377/148379025-b4672bfd-b3eb-4cc5-9cb7-0fdcac9a6018.png)
+![image](https://user-images.githubusercontent.com/93415377/148379457-709aec84-55f2-4901-b23b-0b0480c2007b.png)
 
 
 13.¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
