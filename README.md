@@ -245,9 +245,17 @@ Resolviendo el sistema de ecuaciones en una calculadora:
 
 ![image](https://user-images.githubusercontent.com/93960809/148389806-934b3e82-de1f-4009-a95e-115a386e0951.png)
 
+![image](https://user-images.githubusercontent.com/93960809/148394827-91486854-681c-418b-afc2-bc04f4fd1378.png)
+
+Para este ejercicio, determinamos el valor de voltaje igualando las resistencias cuando el sistema se encuentra en equilibrio. Por lo que se obtiene una ecuación que nos permite calcular el valor de voltaje de los puntos A y B. 
+
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31. 
 
 ![image](https://user-images.githubusercontent.com/93960809/148389845-aad010a1-5805-4a25-8e79-8053c48a4068.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148394871-eef08d76-8e0a-4156-b8ea-723d0e38f884.png)
+
+En este ejercicio, se escribe las ecuaciones que se forman en cada una de las mallas o lazos del voltaje en función de la corriente y resistencia. Como hay tres lazos obtenemos 3 ecuaciones y finalmente las ponemos en forma estándar. 
 
 SECCIÓN 9–4 Método del voltaje en nodos
 
