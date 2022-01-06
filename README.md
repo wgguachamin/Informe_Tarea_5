@@ -317,6 +317,46 @@ Para resolver este ejercicio, se realiza el análisis en los nodos por lo cual, 
 
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
+![image](https://user-images.githubusercontent.com/93960809/148437138-fa3bae92-6867-4442-9be5-aaefdc73f44f.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148437155-7f7424cf-8235-4321-a13e-1680f5501a30.png)
+
+Remplazando las intensidades en función de voltajes y resistencias en las tres ecuaciones de arriba: 
+
+![image](https://user-images.githubusercontent.com/93960809/148437187-eadb86c7-7d84-4fb9-93e6-78df2c1e36a7.png)
+
+Resolviendo el sistema de ecuaciones en una calculadora se tiene que: 
+
+![image](https://user-images.githubusercontent.com/93960809/148437211-f8b28f57-e4fa-4a1f-a1ac-bc851e799e78.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148437220-73d26617-6c21-4917-8d31-c03b8bcff001.png)
+
+Teniendo en cuenta que a es VA, b es VB y c es VC los valores de los voltajes en los nodos desconocidos A,B y C son: 
+
+![image](https://user-images.githubusercontent.com/93960809/148437269-0b577358-d12b-4107-94b7-0e846d8c5b66.png)
+
+Reemplazando los valores de los voltajes hallados para obtener las corrientes: 
+
+          Para hallar las corrientes que entran y salen del nodo A: 
+          
+![image](https://user-images.githubusercontent.com/93960809/148437338-148c7dae-5e27-4427-a362-522e916d10bf.png)
+
+Por tanto, la corriente que ingresa al nodo A es de 0.371 mA
+
+          Para hallar las corrientes que entran y salen del nodo B: 
+          
+![image](https://user-images.githubusercontent.com/93960809/148437428-5edb0cfc-b782-4df0-8a2e-ce42c202ec0d.png)
+
+Por tanto, la corriente que ingresa al nodo B es de 1.64 mA
+
+          Para hallar las corrientes que entran y salen del nodo C:
+          
+![image](https://user-images.githubusercontent.com/93960809/148437513-021bd9da-bd69-445b-9efa-b9a84978a451.png)
+
+Por tanto, la corriente que ingresa al nodo C es de 2.16 mA
+
+Para realizar este ejercicio se analiza mediante el método de los nodos por lo cual se va a colocar las corrientes que salen de dichos nodos principales para luego reemplazar eso en función de los voltajes y resistencias que se encuentran en una rama con respecto al nodo de referencia que en este caso es la conexión a tierra. Se generará un sistema de dos ecuaciones que se debe resolver y de ahí van a salir los valores de corriente y voltajes que se pide para los nodos desconocidos. 
+
 CAPITULO 10
 
 SECCIÓN 10–1 El campo magnético
