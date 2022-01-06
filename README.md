@@ -211,39 +211,78 @@ SECCIÓN 10–1 El campo magnético
 
 1.El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
+![image](https://user-images.githubusercontent.com/93415377/148378795-4c15a419-1a5b-44d8-b211-424f15f4ea14.png)
+
+
 3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x 10^-6 T y el área de sección transversal mide 150 cm2?
 
+![image](https://user-images.githubusercontent.com/93415377/148378826-54bd7c4b-4147-49f2-8bae-0c7b149fd277.png)
+
+
 5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
+
+![image](https://user-images.githubusercontent.com/93415377/148378856-73dd51f3-7008-4438-80ab-4805ada30c3a.png)
+
 
 SECCIÓN 10–2 Electromagnetismo
 
 7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^-6 Wb/At·m?
 
+![image](https://user-images.githubusercontent.com/93415377/148378926-06edcafa-2b35-4a3b-b613-110217bb9186.png)
+
+
 9.¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
+
+![image](https://user-images.githubusercontent.com/93415377/148378976-b5c64754-e303-4cf4-a15d-744c7296a8cf.png)
+
 
 SECCIÓN 10–3 Dispositivos electromagnéticos
 
 11.a)¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
 
+![image](https://user-images.githubusercontent.com/93415377/148379025-b4672bfd-b3eb-4cc5-9cb7-0fdcac9a6018.png)
+
+
 13.¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+
+![image](https://user-images.githubusercontent.com/93415377/148379053-4a1d27cb-bdb4-4b86-aeef-8bcd2526d294.png)
+
 
 SECCIÓN 10–4 Histéresis magnética
 
 15.¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
 
+![image](https://user-images.githubusercontent.com/93415377/148379084-05727e30-5bc2-4f67-a6fe-6123805446de.png)
+
+
 17.Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+
+![image](https://user-images.githubusercontent.com/93415377/148379139-60ad2d6a-343c-4a9c-99b3-7f52be826d8e.png)
+
 
 SECCIÓN 10–5 Inducción electromagnética
 
 19.¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
 
+![image](https://user-images.githubusercontent.com/93415377/148379170-3fe71064-1b4f-4218-99b8-02c99ea1bf66.png)
+
+
 21.¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+![image](https://user-images.githubusercontent.com/93415377/148379197-c493ba97-8fb1-4c89-8eb5-fa8d26067669.png)
+
 
 SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 23.Explique el propósito del conmutador y de las escobillas en la figura 10-35.
 
+![image](https://user-images.githubusercontent.com/93415377/148379224-c3c162c8-3ee0-42c3-ad4b-685bc990f19f.png)
+
+
 25.Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+![image](https://user-images.githubusercontent.com/93415377/148379251-4618264f-9d43-43cd-b4a1-81f625bde87f.png)
+
 
 
 4. VIDEO
