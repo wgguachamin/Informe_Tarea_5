@@ -295,6 +295,26 @@ Para hallar la corriente usamos el método de voltaje en los nodos por lo que de
 
 29.Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
+![image](https://user-images.githubusercontent.com/93960809/148429390-63804c1b-d2ce-4e65-85df-d19ff34461b4.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148429433-b667e9d6-e9cc-4495-8a4a-6f1b9fe8e38d.png)
+
+Remplazando los datos en las dos ecuaciones de arriba: 
+
+![image](https://user-images.githubusercontent.com/93960809/148429464-dd2a128c-d27f-460a-a26c-04893dda339a.png)
+
+Resolviendo el sistema de ecuaciones en una calculadora se tiene que: 
+
+![image](https://user-images.githubusercontent.com/93960809/148429502-761ec363-c5f1-400d-ac3a-864f898ef528.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148429513-ce1a3ab9-78fb-434b-a641-3b327feb3c7f.png)
+
+Teniendo en cuenta que a es VA y b es VB, los valores de los voltajes en los puntos A y B son: 
+
+![image](https://user-images.githubusercontent.com/93960809/148429557-b6f64f09-1b54-4581-b04a-c15c4b932bda.png)
+
+Para resolver este ejercicio, se realiza el análisis en los nodos por lo cual, al tener dos nodos principales en este caso A y B, y calculando las corrientes en función de los voltajes y resistencias se generea un sistema de dos ecuaciones, para lo que al resolver dicho sistema se obtienen los valores del voltaje en A y B.
+
 31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
 CAPITULO 10
