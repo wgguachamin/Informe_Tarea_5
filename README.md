@@ -41,9 +41,65 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 1.Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
 
+100I1 + 50I2 = 30
+
+75I1 + 90I2 = 15
+
+![image](https://user-images.githubusercontent.com/93960809/148325553-5e7aa2b0-a8aa-4357-8ac3-26f3d80e44df.png)
+
+Reemplazando I1 en la segunda ecuación.
+
+![image](https://user-images.githubusercontent.com/93960809/148325593-b30e02b9-c907-45c6-9dcc-27b232d6394b.png)
+
+Reemplazando I2 en la primera ecuación
+
+![image](https://user-images.githubusercontent.com/93960809/148325622-9b545797-c35c-49fe-8ba4-4cd728b8fb77.png)
+
+Tenemos dos ecuaciones con dos incógnitas por lo que es factible resolver dicho sistema, para lo que primero despejamos una variable en términos de otra y posterior a eso sustituimos dicha variable en otra ecuación. Al realizar ese reemplazo, se obtiene el valor de una incógnita y con ese valor ya se puede encontrar el valor de la otra incógnita.
+
 3.Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
+-I1 + 2I2 = 4
+
+7I1 + 3I2 = 6
+
+Determinante característico:
+
+![image](https://user-images.githubusercontent.com/93960809/148325702-b0424b73-4e0e-4dde-96f5-cf30ab4174e5.png)
+
+Reemplazo coeficientes de I1 con constantes de las ecuaciones.
+
+![image](https://user-images.githubusercontent.com/93960809/148325723-29354179-7f61-4698-b8b4-5cb931a8bb40.png)
+
+Dividiendo I1 para determinante característico:
+
+![image](https://user-images.githubusercontent.com/93960809/148325760-7378f2fc-9f21-4432-a434-19e2dc7e4166.png)
+
+Reemplazo coeficientes de I2 con constantes de las ecuaciones.
+
+![image](https://user-images.githubusercontent.com/93960809/148325780-450323f1-e15a-4fde-b265-1808a6bfd698.png)
+
+Dividiendo I2 para determinante característico:
+
+![image](https://user-images.githubusercontent.com/93960809/148325799-0a2a0226-34c1-4e2f-a698-b58b8a47a108.png)
+
+Para resolver las ecuaciones mediante el determinante primero se calcula el determinante característico con los coeficientes de las variables y luego se calcula por separado el determinante de I1 con las constantes e I2 con las constantes también. Finalmente, se dividide el determinante de cada corriente para el característico y se obtiene los valores de corriente. 
+
 5.Evalúe cada uno de los determinantes:
+
+       Para el determinante a)
+
+![image](https://user-images.githubusercontent.com/93960809/148325826-90e54d16-6e6d-4746-a84c-d5672b8f5257.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148325845-36c880c7-fcdc-4b6e-825c-4b9b0478503b.png)
+
+       Para el determinante b)
+
+![image](https://user-images.githubusercontent.com/93960809/148325853-8dbfe8f2-2a7e-4f0e-b1e4-1c06de4b253d.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148325870-bb984172-92a4-4822-ac03-547cbff10f14.png)
+
+Para calcular los determinantes de orden 3 usamos la regla del triángulo y procedemos a realizar las respectivas multiplicaciones, sumas o restas y siempre tomando en cuenta el signo que poseen.  
 
 7.Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
