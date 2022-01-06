@@ -139,7 +139,10 @@ Dividiendo ambos determinantes:
 
 Para resolver las ecuaciones y hallar el valor de las incógnitas primero se encuentra el determinante característico. Posterior a eso, se reemplaza por los valores de las constantes en la columna de variable a analizar. Finalmente se divide los determinantes de las corrientes para el determinante característico, cada uno por separado y se obtiene los valores de las corrientes. 
 
+9.Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
 100I1 + 50I2 = 30
+
 75I1 + 90I2 = 15
 
 ![image](https://user-images.githubusercontent.com/93960809/148330537-9532e34a-88c6-42d9-ae8d-c6274fdc8d0c.png)
@@ -147,11 +150,6 @@ Para resolver las ecuaciones y hallar el valor de las incógnitas primero se enc
 ![image](https://user-images.githubusercontent.com/93960809/148330546-9e8ba693-7f80-47bc-a20c-d34d2c28d542.png)
 
 I1= 0.37, I2= -0.14
-
-
-
-
-9.Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
 SECCIÓN 9–2 Método de la corriente en ramas
 
