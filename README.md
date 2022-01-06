@@ -103,6 +103,54 @@ Para calcular los determinantes de orden 3 usamos la regla del triángulo y proc
 
 7.Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
+2I1 - 6I2 + 10I3 = 9
+
+3I1 + 7I2 - 8I3 = 3
+
+10I1 + 5I2 - 12I3 = 0
+
+Evaluando el determinante característico
+
+![image](https://user-images.githubusercontent.com/93960809/148330199-4f7b731f-19de-4941-af41-b8a5dca0dfc4.png)
+
+Evaluando el determinante para I1:
+
+![image](https://user-images.githubusercontent.com/93960809/148330296-c2dcb48e-2beb-4f4b-8638-0f4506b14129.png)
+
+Dividiendo ambos determinantes: 
+
+![image](https://user-images.githubusercontent.com/93960809/148330332-b4185f96-10ea-4185-a99f-0f047d90e0ff.png)
+
+Evaluando el determinante para I2:
+
+![image](https://user-images.githubusercontent.com/93960809/148330379-2c472ce2-6a4c-4ba6-93a9-ebfccb102339.png)
+
+Dividiendo ambos determinantes: 
+
+![image](https://user-images.githubusercontent.com/93960809/148330458-ab33968a-e2ce-4cfe-8dac-a010b1dfd496.png)
+
+Evaluando el determinante para I3:
+
+![image](https://user-images.githubusercontent.com/93960809/148330494-276d2b41-5ffe-4698-b6f1-e9a4a46d3586.png)
+
+Dividiendo ambos determinantes: 
+
+![image](https://user-images.githubusercontent.com/93960809/148330512-9efa27c8-3eec-419d-b66c-40d5e36237d7.png)
+
+Para resolver las ecuaciones y hallar el valor de las incógnitas primero se encuentra el determinante característico. Posterior a eso, se reemplaza por los valores de las constantes en la columna de variable a analizar. Finalmente se divide los determinantes de las corrientes para el determinante característico, cada uno por separado y se obtiene los valores de las corrientes. 
+
+100I1 + 50I2 = 30
+75I1 + 90I2 = 15
+
+![image](https://user-images.githubusercontent.com/93960809/148330537-9532e34a-88c6-42d9-ae8d-c6274fdc8d0c.png)
+
+![image](https://user-images.githubusercontent.com/93960809/148330546-9e8ba693-7f80-47bc-a20c-d34d2c28d542.png)
+
+I1= 0.37, I2= -0.14
+
+
+
+
 9.Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
 SECCIÓN 9–2 Método de la corriente en ramas
